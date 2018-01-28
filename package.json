@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/Villanuevand/openve-cli/issues"
   },
-  "homepage": "https://github.com/Villanuevand/openve-cli#readme"
+  "homepage": "https://github.com/Villanuevand/openve-cli#readme",
+  "dependencies": {
+    "commander": "^2.13.0",
+    "node-fetch": "^1.7.3"
+  }
 }
