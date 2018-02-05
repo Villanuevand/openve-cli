@@ -3,6 +3,13 @@
 const program = require('commander');
 const { getCommunities } = require('../src/service');
 
+console.log('   ____                 _    ________');
+console.log('  / __ \\____  ___  ____| |  / / ____/');
+console.log(' / / / / __ \\/ _ \\/ __ \\ | / / __/');
+console.log('/ /_/ / /_/ /  __/ / / / |/ / /___');
+console.log('\\____/ .___/\\___/_/ /_/|___/_____/');
+console.log('    /_/');
+
 
 program
     .version('0.1.0')
