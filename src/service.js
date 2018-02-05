@@ -2,7 +2,7 @@
 const fetch = require('node-fetch');
 
 const getCommunities = () => {
-    return fetch('http://localhost:8000/openve')
+    return fetch('https://us-central1-villanuevand-labs.cloudfunctions.net/guaripete/openve')
         .then(response => response.json());
 };
 
