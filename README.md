@@ -3,9 +3,42 @@
 
 <img src="http://drive.google.com/uc?export=download&id=1LGkKr_u1SCa4B5b2naRKRV4WApvge67i" width="700">
 
+## Instalación
+
+Para la instalación de `openve-cli` solo debes escribir: 
+
+```
+$ npm install --global openve-cli
+```
+O la versión corta: 
+
+```
+$ npm i -g openve-cli
+```
+
+Para verificar los paquetes instalados globalmente, solo debes escribir: 
+
+```
+$ npm -g list --depth=0
+```
+
+## Uso 
+
+```
+$ openve comunidades --list
+```
+
+o también: 
+
+```
+$openve comunidades -l 
+```
+
+¡ Y listo! 😃 😎
+
 ## Comenzando 🚀
 
-Para comenzar en este proyecto no hace falta ser un experto con JS, solo mucha curiosidad, ganas de aprender y sobre todo tiempo para realizar features o resolver algunos issues. 
+Para comenzar a colaborar en este proyecto no hace falta ser un experto con JS, solo mucha curiosidad, ganas de aprender y sobre todo tiempo para realizar features o resolver algunos issues. 
 
 ### Pre-requisitos 📋
 
