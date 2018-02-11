@@ -61,7 +61,7 @@ _Y también de esto_
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/Villanuevand/openve-cli/blob/develop/.github/CONTRIBUTING.md) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
 
 ## Versionado 📌
 
@@ -70,7 +70,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 ## Autores ✒️
 
 * **Andrés Villanueva** - *Trabajo Inicial / Desarrollo* - [villanuevand](https://github.com/villanuevand)
-* **Jobsamuel Nuñez** - * Contribuyente * - [Jobsamuel](https://github.com/jobsamuel)
+* **Jobsamuel Nuñez** - *Recomendaciones* - [Jobsamuel](https://github.com/jobsamuel)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/villanuevand/openve-cli/contributors.md) quíenes han participado en este proyecto. 
 
