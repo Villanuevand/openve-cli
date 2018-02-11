@@ -42,7 +42,7 @@ Tenemos una estructura a seguir, para facilitar la validación de tus contribuci
 
 ````
 
-El Encabezado:  `tipo(ámbito): <Mensaje Corto>` **es obligatorio**. Las acciones disponibles, puedes encontarlas en [Acciones](#acciones), un poco más abajo.
+El Encabezado:  `tipo(ámbito): <Mensaje Corto>` **es obligatorio**. Las acciones disponibles, puedes encontarlas en [Acciones](https://github.com/Villanuevand/openve-cli/blob/develop/.github/CONTRIBUTING.md#tipos-acciones), un poco más abajo.
 
 Cualquier línea en un mensaje de commit no de ser mayor de 50 caracteres!. Esto permite la fácil lectura de los mensajes tanto en Github como en varias herramientas de git.
 
@@ -87,7 +87,7 @@ Las acciones son los indicativos primordiales de los cambios que realizamos en u
 - **refactor**: Un cambio de código que no corrige errores ni añade características.
 - **chore**: Otros cambios que no modifica codigo funcional de la aplicación.
 
-###### NOTA: Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para ello en este [enlace](https://github.com/firebaseve/firebase-tools-espanol/issues)</sup>_
+###### NOTA: Si quieres proponer un nuevo tipo de "Accion", puedes abrir un `issue`, para ello en este [enlace](https://github.com/Villanuevand/openve-cli/issues)
 
 ##### ¿Por qué las acciones en inglés? 🤔😕
 
