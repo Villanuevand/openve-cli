@@ -1,7 +1,7 @@
 # OpenVE-cli 
 📡 Localiza las comunidades tecnológicas de Venezuela 🇻🇪 que hacen vida en Telegram desde tu CLI.
 
-<img src="http://drive.google.com/uc?export=download&id=1LGkKr_u1SCa4B5b2naRKRV4WApvge67i" width="700">
+![Lista de comandos](https://i.imgur.com/BBguzaL.png "Lista de comandos")
 
 ## Instalación
 
