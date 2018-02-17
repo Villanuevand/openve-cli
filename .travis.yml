@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  "6"
+deploy:
+  provider: npm
+  email: $NPM_USER
+  api_key: $NPM_TOKEN
+  on:
+    tags: true
+  branch: master
