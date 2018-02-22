@@ -1,0 +1,41 @@
+{
+  "name": "openve-cli",
+  "version": "1.0.1",
+  "description": "Obten todas las comunidades de OpenVE en tu terminal",
+  "main": "./lib/index.js",
+  "bin": {
+    "openve": "bin/openve.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Villanuevand/openve-cli.git"
+  },
+  "keywords": [
+    "openve",
+    "OpenVE",
+    "openve-cli",
+    "OpenVE-cli",
+    "openve-telegram",
+    "openve-comunidades-telegram",
+    "cli",
+    "villanuevand"
+  ],
+  "author": {
+      "name": "Andrés Villanueva",
+      "email" : "andresvillanuevab@gmail.com",
+      "url" : "https://github.com/villanuevand"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Villanuevand/openve-cli/issues"
+  },
+  "homepage": "https://github.com/Villanuevand/openve-cli#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "commander": "^2.13.0",
+    "node-fetch": "^1.7.3"
+  }
+}
