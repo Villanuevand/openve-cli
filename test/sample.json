@@ -1,0 +1,14 @@
+{
+    "comunidades": [
+        {
+            "name": "Angular",
+            "admins": "@abr4xas - @Villanuevand - @jmespiz - @osnoser1 - @skatox - @leonardocabeza",
+            "link": "https://t.me/ngvenezuela"
+        },
+        {
+            "name": "Ruby",
+            "admins": "@andres_code - @highercomve - @hipsss",
+            "link": "https://t.me/ruby_ve"
+        }
+    ]
+}

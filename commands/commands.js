@@ -28,7 +28,6 @@ program
     .option('-l, --list', 'listado de todas las comunidades')
     .description('Obten todas las comunidades de OpenVE en tu terminal 💻  🇻🇪');
 
-
 program
     .command('comunidades')
     .description('obten informacion sobre todas las comunidades')
@@ -48,12 +47,9 @@ program
         } else {
             program.help();
         }
-
     });
 
 
 program.parse(process.argv);
 
-
-
-
+module.exports = program;
