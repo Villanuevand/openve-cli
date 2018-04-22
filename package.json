@@ -7,7 +7,7 @@
     "openve": "bin/openve.js"
   },
   "scripts": {
-    "test": "echo \"No tests specified yet\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,9 +24,9 @@
     "villanuevand"
   ],
   "author": {
-      "name": "Andrés Villanueva",
-      "email" : "andresvillanuevab@gmail.com",
-      "url" : "https://github.com/villanuevand"
+    "name": "Andrés Villanueva",
+    "email": "andresvillanuevab@gmail.com",
+    "url": "https://github.com/villanuevand"
   },
   "license": "MIT",
   "bugs": {
@@ -37,5 +37,16 @@
     "cli-table": "^0.3.1",
     "commander": "^2.13.0",
     "node-fetch": "^1.7.3"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "jest-fetch-mock": "^1.4.2"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "automock": false,
+    "setupFiles": [
+      "./setupJest.js"
+    ]
   }
 }
