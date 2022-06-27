@@ -1,3 +1,31 @@
+# 🚨 REPOSITORIO SIN MATENIMIENTO | UNMAINTAINED REPO 🚨
+
+### Spanish
+Este repositorio se encuentra deprecado. No se le dará más soporte. 
+Es un buen recurso para entender: 
+
+- Cómo armar un CLI con NodeJs.
+- Como hacer web scrapping con Cheerio.
+- Como armar una estructura de proyecto para un repo de codigo abierto. 
+
+Sientete libre de hacer fork y jugar con el. 
+
+### English
+
+This repo is Unmaintained from now. We won't support it anymore.
+This is a great resource to understand: 
+
+- How to build a CLI tool with NodeJs.
+- How to do Web scrapping with Cheerio.
+- How to build a good folder structure for an open source project.
+
+Feel free to firk it and play around with it.
+.
+.
+.
+.
+Andrés!
+--- 
 # OpenVE-cli 
 📡 Localiza las comunidades tecnológicas de Venezuela 🇻🇪 que hacen vida en Telegram desde tu CLI.
 
